@@ -31,10 +31,10 @@
                         <li><i class="bi bi-check-circle"></i> Students can send feedback to administrator of the website for further improvement on the website.</li>
                         <li><i class="bi bi-check-circle"></i> Evaluators from the companies can evaluate students on the website. </li>
                     </ul>
-                    <p> <h3>Aim of Project</h3>
+                    <!--<p> <h3>Aim of Project</h3>
                     The aim of this project is to create a system that would generate official internship letters 
                     for students of the computer science department in a short period of time.
-                    </p>
+                    </p>-->
                 </div>
             </div>
 
