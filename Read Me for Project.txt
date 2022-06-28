@@ -1,0 +1,21 @@
+Things left to do:
+1. the inclusion of the letter generating page. 
+2. When the login button is clicked, after the authentications it must lead to the page for receiveing student and company details.
+Student details = Student name, index number, reference number, phone number; 
+Company details = company name, company post office address and company e-mail.
+
+3. When the login button on the admin login page is clicked, it must lead to the administrator's dashboard after the authentications.
+
+4. On the admin dashboard, the admin gets to see the feedback that came on the partial view on the left 
+when the feedback button on the right is clicked likewise for rest of the buttons on the panel.
+
+5. When the login button on the evaluator login page is clicked, it must lead to a page with evaluation tab on the nav bar after the authentications.
+
+6. Authentications for the evaluator's login page: 
+	a. It has an input for the company's e-mail address 
+	where the e-mail entered must match with the company's email address in the database.
+	b. It has an input for passcode where the passcode entered must match with the company's passcode in the database
+	therefore a column must be added to the company details table for randomly genereated code for each company.
+7. An evaluation view page must be created and must contain an input to receive intern's name and that would be used to fetch the evaluation for the particular intern. 
+
+8. Print option must added to the evaluation view page to enable the admin to print the evaluation.
