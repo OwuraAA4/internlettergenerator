@@ -28,7 +28,7 @@
                                 <li><i class="bx bx-chevron-right"></i> <a href="index.php">Home</a></li>
                                 <li><i class="bx bx-chevron-right"></i> <a href="about.php">About</a></li>
                                 <li><i class="bx bx-chevron-right"></i> <a href="login.php">Login</a></li>
-                                <li><i class="bx bx-chevron-right"></i> <a href="feedBK.php">Feedback</a></li>
+                                <!--<li><i class="bx bx-chevron-right"></i> <a href="feedBK.php">Feedback</a></li>-->
                                 <li><i class="bx bx-chevron-right"></i> <a href="contact.php">Contact Us</a></li>
                             </ul>
                         </div>
