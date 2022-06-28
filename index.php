@@ -3,7 +3,7 @@
     <div class="container position-relative" data-aos="fade-up" data-aos-delay="500">
         <h1>Welcome to Azora: The CS Internship Letter Website</h1>
         <h2>We are glad to have you here!</h2>
-        <a href="signup.php" class="btn-get-started scrollto">Get Started</a>
+        <!--<a href="signup.php" class="btn-get-started scrollto">Get Started</a>-->
         
     </div>
 </section><!-- End Hero -->
